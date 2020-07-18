@@ -2,7 +2,7 @@
 <img src=https://github.com/harshmangal1108/harshmangal1108/blob/master/undraw_profile_6l1l.svg>
 <h3>👋HI THERE,I'M HARSH!😎</h3>
 <h4>👨🏻‍🎓4TH YEAR UG STUDENT AT CIT ABUROAD, INDIA</h4>
-<p align='center'>
+<p style="text-align: center;">
  <h3>📲 Contact </h3>
   <a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
