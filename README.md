@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/harsh-mangal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/harsh-mangal/" height="30" width="30" /></a>
 <a href="https://kaggle.com/harshmangal11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="harshmangal11" height="30" width="30" /></a>
 <a href="https://fb.com/harsh.mangal.148" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="harsh.mangal.148" height="30" width="30" /></a>
-<a href="https://www.instagram.com/_harsh_mangal_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_harsh_mangal_/" height="30" width="30" /></a>
+<a href="https://www.instagram.com/_harsh_mangal_/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="https://www.instagram.com/_harsh_mangal_/" height="30" width="30" /></a>
 </p>
   
  <!-- <a href="https://www.linkedin.com/in/harsh-mangal/">
