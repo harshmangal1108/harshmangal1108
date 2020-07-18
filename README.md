@@ -29,4 +29,4 @@
   <p>🔭 I’m currently working on a Personal Portfolio Website</p>
  <p>🤝 I’m looking to collaborate on 📖 Open Source,♾️ DevOps projects or 🌐 Web applications using Html,CSS.</p></div>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshmangal1108" alt="harshmangal1108" /> </p>
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshmangal1108&show_icons=true" alt="harshmangal1108" /> </p>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshmangal1108&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="harshmangal1108" /> </p>
