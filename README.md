@@ -1,7 +1,6 @@
-- ⚡ Fun fact: "Jack of all trades, master of one🔥"
+<h3>⚡ Fun fact: "Jack of all trades, master of none🔥" </h3>
 <img src=https://github.com/harshmangal1108/harshmangal1108/blob/master/undraw_profile_6l1l.svg>
-<h3>👋HI THERE,</h3>
-<h4>I'm Harsh!😎</h4>
+<h3>👋HI THERE,I'M HARSH!😎</h3>
 <h4>👨🏻‍🎓4TH YEAR UG STUDENT AT CIT ABUROAD, INDIA</h4>
 <p align='center'>
  <h3>📲 Contact </h3>
