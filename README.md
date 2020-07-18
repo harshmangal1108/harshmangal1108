@@ -13,8 +13,8 @@
 <a href="https://dev.to/harshmangal1108" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harshmangal1108" height="30" width="30" /></a>
 <a href="https://twitter.com/harshmangal1108" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/harshmangal1108" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/harsh-mangal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/harsh-mangal/" height="30" width="30" /></a>
-<a href="www.kaggle.com/harshmangal11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/harshmangal11" height="30" width="30" /></a>
-<a href="www.facebook.com/harsh.mangal.148/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/harsh.mangal.148/" height="30" width="30" /></a>
+<a href="https://kaggle.com/harshmangal11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="harshmangal11" height="30" width="30" /></a>
+<a href="https://fb.com/harsh.mangal.148" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="harsh.mangal.148" height="30" width="30" /></a>
 <a href="https://www.instagram.com/_harsh_mangal_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_harsh_mangal_/" height="30" width="30" /></a>
 </p>
   
