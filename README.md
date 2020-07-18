@@ -4,7 +4,9 @@
 <img src="https://github.com/harshmangal1108/harshmangal1108/blob/master/%7B104BFCD4-DECD-4790-88B5-C3FAED644E01%7D.png.jpg">
 <div align="center">
 <h3>👨🏻‍🎓 4TH YEAR UG STUDENT AT CIT ABUROAD, INDIA</h3>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=harshmangal1108&repo=github-readme-stats" />
+</a>
     <h3>📲 Contact </h3>
 <!--  <a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">-->
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
