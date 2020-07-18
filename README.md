@@ -1,6 +1,7 @@
 <h3>⚡ Fun fact: "Jack of all trades, master of none🔥" </h3>
-<img src=https://github.com/harshmangal1108/harshmangal1108/blob/master/undraw_profile_6l1l.svg>
-<div align="center"><h3>👋 HI THERE,I'M HARSH!😎</h3>
+https://github.com/harshmangal1108/harshmangal1108/blob/master/undraw_home_cinema_l7yl.svg
+<div align="center">
+<h3>👋 HI THERE,I'M HARSH!😎</h3>
 <h4>👨🏻‍🎓 4TH YEAR UG STUDENT AT CIT ABUROAD, INDIA</h4>
 <h3>📲 Contact </h3>
 <!--  <a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">-->
