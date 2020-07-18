@@ -1,4 +1,8 @@
+- ⚡ Fun fact: "Jack of all trades, master of one🔥"
 <img src=https://github.com/harshmangal1108/harshmangal1108/blob/master/undraw_profile_6l1l.svg>
+<h3>👋HI THERE,</h3>
+<h4>I'm Harsh!😎</h4>
+<h4>👨🏻‍🎓4TH YEAR UG STUDENT AT CIT ABUROAD, INDIA</h4>
 <p align='center'>
  <h3>📲 Contact </h3>
   <a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
@@ -13,20 +17,6 @@
   </a>&nbsp;&nbsp;
   
 </p>
-
-### Hi there 👋 I'm Harsh
-
-<!--
-**harshmangal1108/harshmangal1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <p>I'm a 🧠 Data Science,♾️ DevOps and an Open Source 👨🏻‍💻 Enthusiast who is highly passionate about building fast,Creative applications. I also like to 🖍️ design posters and logos in Canva xd</p>
+  <p>🔭 I’m currently working on a Personal Portfolio Website</p>
+ <p>🤝 I’m looking to collaborate on 📖 Open Source,♾️ DevOps projects or 🌐 Web applications using Html,Css</p>
