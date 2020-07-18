@@ -1,5 +1,5 @@
 <h3>⚡ Fun fact: "Jack of all trades, master of none🔥" </h3>
-https://github.com/harshmangal1108/harshmangal1108/blob/master/undraw_home_cinema_l7yl.svg
+<img src="https://github.com/harshmangal1108/harshmangal1108/blob/master/undraw_home_cinema_l7yl.svg">
 <div align="center">
 <h3>👋 HI THERE,I'M HARSH!😎</h3>
 <h4>👨🏻‍🎓 4TH YEAR UG STUDENT AT CIT ABUROAD, INDIA</h4>
