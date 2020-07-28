@@ -30,13 +30,14 @@
  <h3>📚 Skills </h3>
   <p>
  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50"/> 
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
+ <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="50" height="50"/>
+ <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="50" height="50"/> 
+ <img src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" alt="docker" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  alt="cplusplus" width="50" height="50"/> 
   <img src="https://image.flaticon.com/icons/svg/1199/1199128.svg" alt="mysql" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="50" height="50"/> 
+  <img src="https://access.redhat.com/webassets/avalon/g/shadowman-200.png" alt="redhat" width="50" height="50"/> 
   <img src="https://img.icons8.com/plasticine/100/000000/canva.png" alt="canva" width="50" height="50" />
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/></p></div>
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1200px-Nginx_logo.svg.png" width="50" height="50"/></p></div>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshmangal1108" alt="harshmangal1108" /> </p>
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshmangal1108&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="harshmangal1108" /> </p>
