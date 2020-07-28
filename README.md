@@ -28,6 +28,15 @@
   <p>🔭 I’m currently working on a Personal Portfolio Website</p>
  <p>🤝 I’m looking to collaborate on 📖 Open Source,♾️ DevOps projects or 🌐 Web applications using Html,CSS.</p>
  <h3>📚 Skills </h3>
-  <p><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="50" height="50"/> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/></p></div>
+  <p>
+ <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50"/> 
+  <<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  alt="cplusplus" width="50" height="50"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="50" height="50"/> 
+  <img src="https://img.icons8.com/plasticine/100/000000/canva.png" alt="canva" width="50" height="50" />
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/></p></div>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshmangal1108" alt="harshmangal1108" /> </p>
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshmangal1108&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="harshmangal1108" /> </p>
