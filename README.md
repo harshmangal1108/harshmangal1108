@@ -30,11 +30,11 @@
  <h3>📚 Skills </h3>
   <p>
  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50"/> 
-  <<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  alt="cplusplus" width="50" height="50"/> 
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="50" height="50"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  alt="cplusplus" width="50" height="50"/> 
+  <img src="https://image.flaticon.com/icons/svg/1199/1199128.svg" alt="mysql" width="50" height="50"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="50" height="50"/> 
   <img src="https://img.icons8.com/plasticine/100/000000/canva.png" alt="canva" width="50" height="50" />
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/></p></div>
