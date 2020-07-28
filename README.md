@@ -32,7 +32,7 @@
  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50"/> 
  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="50" height="50"/>
  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="50" height="50"/> 
- <img src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" alt="docker" width="50" height="50"/>
+ <img src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" alt="docker" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  alt="cplusplus" width="50" height="50"/> 
   <img src="https://image.flaticon.com/icons/svg/1199/1199128.svg" alt="mysql" width="50" height="50"/> 
   <img src="https://access.redhat.com/webassets/avalon/g/shadowman-200.png" alt="redhat" width="50" height="50"/> 
