@@ -29,6 +29,7 @@
  <p>🤝 I’m looking to collaborate on 📖 Open Source,♾️ DevOps projects or 🌐 Web applications using Html,CSS.</p>
  <h3>📚 Skills </h3>
   <p>
+  <img src="https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Developer_files_Bash_Shell_Script-512.png" alt="Shell" height="50" width="50"/>
  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50"/> 
  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="50" height="50"/>
  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="50" height="50"/> 
