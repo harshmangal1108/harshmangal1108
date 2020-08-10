@@ -26,12 +26,7 @@
   </a>&nbsp;&nbsp; -->
  <p>I'm a 🧠 Data Science,♾️ DevOps and an Open Source 👨🏻‍💻 Enthusiast who is highly passionate about building fast,Creative applications. I also like to 🖍️ design posters and logos in Canva.</p>
   <p>🔭 I’m currently working on a Personal Portfolio Website</p>
- <p>🤝 I’m looking to collaborate on 📖 Open Source,♾️ DevOps projects or 🌐 Web applications using Html,CSS.</p>
- <!-- BLOG-POST-LIST:START -->
-- [WIFI Drivers Fedora 32!](https://dev.to/harshmangal1108/wifi-drivers-fedora-32-4occ)
-- [Git README Feature!🔥](https://dev.to/harshmangal1108/git-readme-feature-1jb5)
-<!-- BLOG-POST-LIST:END -->
- 
+ <p>🤝 I’m looking to collaborate on 📖 Open Source,♾️ DevOps projects or 🌐 Web applications using Html,CSS.</p 
  <h3>📚 Skills </h3>
   <p>
   <img src="https://c7.uihere.com/files/359/509/99/angle-brand-green-apps-terminal-pc-104.jpg" alt="Shell" height="50" width="50"/>
@@ -46,8 +41,10 @@
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1200px-Nginx_logo.svg.png" width="50" height="50"/></p></div>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshmangal1108" alt="harshmangal1108" /> </p>
- ## Blog Post
- <!-- BLOG-POST-LIST:START -->
- <!-- BLOG-POST-LIST:END -->
  
+ <h3>Blog Post</h3> 
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+
+
  
