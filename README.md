@@ -44,8 +44,8 @@
  
  <h3>Blog Post</h3> 
   <!-- BLOG-POST-LIST:START -->
-- [WIFI Drivers Fedora 32!] (https://dev.to/harshmangal1108/wifi-drivers-fedora-32-4occ)
-- [Git README Feature!🔥](https://dev.to/harshmangal1108/git-readme-feature-1jb5)
+<a href="https://dev.to/harshmangal1108/wifi-drivers-fedora-32-4occ">WIFI Drivers Fedora 32!</a>
+<a href="https://dev.to/harshmangal1108/git-readme-feature-1jb5">Git README Feature!🔥</a>
 <!-- BLOG-POST-LIST:END -->
 
 
