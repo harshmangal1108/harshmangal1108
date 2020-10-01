@@ -41,12 +41,3 @@
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> 
   <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="50" height="50"/></p></div>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshmangal1108" alt="harshmangal1108" /> </p>
- 
- <h3>Blog Post</h3> 
-  <!-- BLOG-POST-LIST:START -->
-- [WIFI Drivers Fedora 32!](https://dev.to/harshmangal1108/wifi-drivers-fedora-32-4occ)
-- [Git README Feature!🔥](https://dev.to/harshmangal1108/git-readme-feature-1jb5)
-<!-- BLOG-POST-LIST:END -->
-
-
- 
