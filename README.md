@@ -26,7 +26,7 @@
   </a>&nbsp;&nbsp; -->
  <p>I'm a 🧠 Data Science,♾️ DevOps and an Open Source 👨🏻‍💻 Enthusiast who is highly passionate about building fast,Creative applications. I also like to 🖍️ design posters and logos in Canva.</p>
   <p>🔭 I’m currently working on a Personal Portfolio Website</p>
- <p>🤝 I’m looking to collaborate on 📖 Open Source,♾️ DevOps projects or 🌐 Web applications using Html,CSS.</p 
+ <p>🤝 I’m looking to collaborate on 📖 Open Source,♾️ DevOps projects or 🌐 Web applications using Html,CSS.</p>
  <h3>📚 Skills </h3>
   <p>
   <img src="https://c7.uihere.com/files/359/509/99/angle-brand-green-apps-terminal-pc-104.jpg" alt="Shell" height="50" width="50"/>
