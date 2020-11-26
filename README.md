@@ -42,4 +42,5 @@
   <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="50" height="50"/></p></div>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshmangal1108" alt="harshmangal1108" /> </p>
  <p align="center">
-  <a href="#" onclick="return false;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmangal1108&theme=radical&layout=compact&count_private=true&hide=jupyter%20notebook,php,asp,css&langs_count=10" /></a><br><br><br>
+<!--  <a href="#" onclick="return false;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmangal1108&theme=radical&layout=compact&count_private=true&hide=jupyter%20notebook,php,asp,css&langs_count=10" /></a><br><br><br>
+-->
