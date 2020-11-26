@@ -35,9 +35,11 @@
  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="50" height="50"/> 
  <img src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" alt="docker" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  alt="cplusplus" width="50" height="50"/> 
-  <img src="https://image.flaticon.com/icons/svg/1199/1199128.svg" alt="mysql" width="50" height="50"/> 
-  <img src="https://access.redhat.com/webassets/avalon/g/shadowman-200.png" alt="redhat" width="50" height="50"/> 
+  <img src="https://image.flaticon.com/icons/svg/1199/1199128.svg" alt="mysql" width="50" height="50"/>
+ <img src="https://access.redhat.com/webassets/avalon/g/shadowman-200.png" alt="redhat" width="50" height="50"/> 
   <img src="https://img.icons8.com/plasticine/100/000000/canva.png" alt="canva" width="50" height="50" />
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> 
   <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="50" height="50"/></p></div>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshmangal1108" alt="harshmangal1108" /> </p>
+ <p align="center">
+  <a href="#" onclick="return false;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaravananVijayamuthu&theme=radical&layout=compact&count_private=true&hide=jupyter%20notebook,php,asp,css&langs_count=10" /></a><br><br><br>
